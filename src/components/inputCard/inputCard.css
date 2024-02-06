@@ -1,0 +1,25 @@
+.box {
+  width: 350px;
+  border: 1px solid rgba(128, 128, 128, 0.774);
+  border-radius: 4px;
+  align-items: center;
+  box-shadow: 1px 1px 10px gray;
+  margin: 20px auto;
+}
+.input_text {
+  margin: 30px;
+}
+.button_class {
+  display: flex;
+  margin: 10px auto;
+  background-color: #5e00b8;
+  color: white;
+  border-radius: 4px;
+  padding: 5px 8px;
+}
+#Title {
+  padding: 9px;
+  width: 100%;
+  border-color: #c1bcbc2e;
+  border-radius: 4px;
+}
